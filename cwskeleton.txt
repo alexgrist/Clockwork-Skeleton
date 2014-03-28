@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"			"Clockwork"
+	"title"			"Skeleton"
+	"author"		"alexgrist"
+	"description"		"A barebones schema for Clockwork."
+}
